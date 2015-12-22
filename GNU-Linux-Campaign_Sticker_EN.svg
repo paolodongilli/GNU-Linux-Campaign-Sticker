@@ -15,9 +15,9 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    sodipodi:docname="GNU-Linux-Campaign_Sticker_EN.svg"
-   inkscape:export-filename="/home/paolo/Documents/GNU-Linux-Campaign.svg.png"
+   inkscape:export-filename="/home/marco/git/github/ciampix/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_EN.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <title
@@ -224,7 +224,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58058349"
-     inkscape:cx="-116.49172"
+     inkscape:cx="-479.05801"
      inkscape:cy="542.8856"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -298,15 +298,15 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        r="336.80743" />
-    <circle
+    <ellipse
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.85600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3422"
        cx="376.14255"
        cy="487.09357"
-       r="334.81018"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/home/marco/git/github/ciampix/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_EN.png" />
+       inkscape:export-filename="/home/marco/git/github/ciampix/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_EN.png"
+       r="334.81018" />
     <path
        style="fill:#13264a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.81469864px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3422-0"
