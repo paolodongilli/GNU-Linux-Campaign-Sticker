@@ -14,4 +14,5 @@ sudo apt-get install fonts-crosextra-carlito
 ```
 
 Then edit with *Inkscape*.
+When exporting into PNG format, set in *Image size - pixels at* 150 dpi.
 
