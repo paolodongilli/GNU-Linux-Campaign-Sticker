@@ -18,8 +18,8 @@
    inkscape:version="0.91 r"
    sodipodi:docname="GNU-Linux-Campaign_Sticker_EN.svg"
    inkscape:export-filename="/home/paolo/git/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_EN.png"
-   inkscape:export-xdpi="149.98311"
-   inkscape:export-ydpi="149.98311">
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <title
      id="title4228">GNU/Linux Campaign Sticker</title>
   <defs
@@ -224,7 +224,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58185062"
-     inkscape:cx="55.339746"
+     inkscape:cx="-233.39416"
      inkscape:cy="684.4402"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -247,16 +247,16 @@
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
         <dc:creator>
           <cc:Agent>
-            <dc:title>Paolo Dongilli</dc:title>
+            <dc:title>Paolo Dongilli, Marco Ciampa</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:date>2015-12-21</dc:date>
         <dc:rights>
           <cc:Agent>
-            <dc:title>(C) Copyright 2015 Paolo Dongilli</dc:title>
+            <dc:title>(C) Copyright 2015 Paolo Dongilli, Marco Ciampa</dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:language>Italian</dc:language>
+        <dc:language>English</dc:language>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNU</rdf:li>

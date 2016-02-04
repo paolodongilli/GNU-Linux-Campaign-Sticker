@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="GNU-Linux-Campaign_Sticker_IT.svg"
-   inkscape:export-filename="/home/paolo/git/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_IT.png"
+   sodipodi:docname="GNU-Linux-Campaign_Sticker_DE.svg"
+   inkscape:export-filename="/home/paolo/git/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_DE.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <title
@@ -224,8 +224,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82106904"
-     inkscape:cx="57.929424"
-     inkscape:cy="591.21969"
+     inkscape:cx="336.49382"
+     inkscape:cy="569.99748"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -256,7 +256,7 @@
             <dc:title>(C) Copyright 2015 Paolo Dongilli, Marco Ciampa</dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:language>Italian</dc:language>
+        <dc:language>Deutsch</dc:language>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>GNU</rdf:li>
@@ -266,6 +266,11 @@
           </rdf:Bag>
         </dc:subject>
         <dc:source>https://github.com/paolodongilli/GNU-Linux-Campaign-Sticker</dc:source>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>German translation: Markus Egger</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
@@ -356,8 +361,8 @@
            style="-inkscape-font-specification:Carlito;font-family:Carlito;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
          id="flowPara4311" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#13264a;fill-opacity:1;stroke:none;font-family:Carlito;-inkscape-font-specification:Carlito Bold"
-       x="71.258018"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:125%;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';letter-spacing:0px;word-spacing:0px;fill:#13264a;fill-opacity:1;stroke:none"
+       x="77.258018"
        y="565.39301"
        id="text4321"
        sodipodi:linespacing="125%"
@@ -365,13 +370,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4323"
-         x="71.258018"
+         x="77.258018"
          y="565.39301"
-         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#13264a;fill-opacity:1;font-family:Carlito;-inkscape-font-specification:Carlito Bold">È più veloce e più sicuro.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:65px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';fill:#13264a;fill-opacity:1">Sicherer und schneller</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120.21906"
+       x="123.09689"
        y="656.68481"
        id="text6140"
        sodipodi:linespacing="125%"
@@ -379,12 +384,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6142"
-         x="120.21906"
-         y="656.68481">Rivolgiti al tuo Linux User Group locale</tspan></text>
+         x="123.09689"
+         y="656.68481"
+         style="font-size:27.5px">Wende dich an deine lokale Linux User Group</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;line-height:125%;font-family:Carlito;-inkscape-font-specification:Carlito;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="188.84515"
+       x="197.19785"
        y="697.36835"
        id="text6140-4"
        sodipodi:linespacing="125%"
@@ -392,10 +398,11 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6142-7"
-         x="188.84515"
-         y="697.36835">visita <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
-   id="tspan6162">http://lugmap.linux.it</tspan></tspan></text>
+         x="197.19785"
+         y="697.36835"
+         style="font-size:27.5px">besuche <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
+   id="tspan6162">http://getgnulinux.org</tspan></tspan></text>
     <g
        id="g15062"
        transform="translate(-2.1643624,0)">
@@ -4558,7 +4565,7 @@
        xml:space="preserve"
        id="flowRoot4271"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(33.194519,16)"
+       transform="translate(34.608728,70)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion4273"><rect
@@ -4573,26 +4580,26 @@
        xml:space="preserve"
        id="flowRoot4291"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(39.364563,4)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
+       transform="translate(-82.832068,4)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
          id="flowRegion4293"><rect
            id="rect4295"
-           width="264.51614"
-           height="67.741936"
+           width="467.90952"
+           height="67.741943"
            x="240.32259"
            y="270.10413"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff" /></flowRegion><flowPara
          id="flowPara4297"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold'"><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
-           id="flowSpan4303">P</flowSpan><flowSpan
+           id="flowSpan4303">W</flowSpan><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
-           id="flowSpan4301">ASSA A</flowSpan></flowPara></flowRoot>    <flowRoot
+           id="flowSpan4301">ECHSLE JETZT FREI</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4283"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(134.66524,0.4358488)"
+       transform="translate(255.26217,-77.56415)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/marco/git/github/ciampix/GNU-Linux-Campaign-Sticker/GNU-Linux-Campaign_Sticker_IT.png"><flowRegion
@@ -4605,5 +4612,5 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
            ry="0" /></flowRegion><flowPara
          id="flowPara4289"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'">LIBERAMENTE!</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'">ZU</flowPara></flowRoot>  </g>
 </svg>
