@@ -7,7 +7,7 @@ Copyright (C) 2015 Paolo Dongilli and Marco Ciampa
 
 ### Contributors
 
-- German translation: [Markus Egger](https://github.com/freeyourcat "Markus Egger")
+- [Markus Egger](https://github.com/freeyourcat "Markus Egger"): German translation
 
 ### To contributors and translators.
 
